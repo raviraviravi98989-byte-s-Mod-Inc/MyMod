@@ -1,0 +1,9 @@
+name: "Compact Machines"
+displayName: "[accent]Compact Machines[]"
+author: "raviraviravi98989-byte's Mod Inc"
+description: "A Mindustry mod that adds Compact Machines. Touch units to shrink them, untouch to grow them back."
+version: 1.0
+minGameVersion: 158.1
+
+# Java mod class
+main: "mymod.CompactMachines"
